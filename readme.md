@@ -42,10 +42,7 @@ Chrome 扩展
 ### 2.1 安装 Chrome 扩展（唯一需要手动做的事）
 
 1. 打开 Chrome，地址栏输入 `chrome://extensions/`
-2. 右上角开启 **开发者模式**
-3. 点击 **加载已解压的扩展程序**
-4. 选择项目中的 `cookie-proxy/extension/` 目录
-5. 扩展栏出现 🔐 图标，安装完成
+2. 将extension.crx拖入，安装成功
 
 > **注意**：扩展只需安装一次。proxy-server 二进制程序会在你第一次使用时由 Claude Code 自动下载，无需手动操作。
 

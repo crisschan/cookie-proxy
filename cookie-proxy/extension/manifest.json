@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Cookie Proxy",
+  "name": "Agent Cookie Proxy",
   "version": "1.0.0",
-  "description": "让 Claude Code 借用浏览器登录态访问网站",
+  "description": "让 智能体 借用浏览器登录态访问网站",
   "permissions": ["storage", "alarms", "tabs", "scripting"],
   "host_permissions": [
     "ws://localhost:7070/*",
