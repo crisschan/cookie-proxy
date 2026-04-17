@@ -9,7 +9,7 @@ from pathlib import Path
 import httpx
 
 # Update these URLs when publishing a new release.
-BASE_URL = "https://github.com/YOUR_ORG/cookie-proxy/releases/download/v1.0.0"
+BASE_URL = "https://github.com/crisschan/cookie-proxy/releases/download/v1.0.0"
 
 PLATFORM_MAP = {
     ("darwin", "arm64"):  "proxy-server-darwin-arm64",
